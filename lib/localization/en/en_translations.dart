@@ -1,0 +1,31 @@
+final Map<String, String> en = {
+  "lbl_6_55_pm": "6:55 pm",
+  "lbl_7_00_pm": "7:00 pm",
+  "lbl_7_10_pm": "7:10 pm",
+  "lbl_add_alarm": "Add Alarm",
+  "lbl_alarms": "Alarms",
+  "lbl_apr_04_mar_2025": "Apr 04 Mar 2025",
+  "lbl_fri_21_mar_2025": "Fri 21 Mar 2025",
+  "lbl_fri_28_mar_2025": "Fri 28 Mar 2025",
+  "lbl_home": "Home",
+  "lbl_next": "Next",
+  "lbl_relax_unwind": "Relax & Unwind",
+  "lbl_skip": "Skip",
+  "lbl_sync": "Sync",
+  "msg_79_regent_s_park": "79 Regent's Park Rd, London NW1 8UY, United Kingdom",
+  "msg_allow_us_to_sync":
+      "Allow us to sync your sunset alarm based on your location.",
+  "msg_effortless_automatic": "Effortless & Automatic",
+  "msg_experience_a_peaceful":
+      "Experience a peaceful transition into the evening with an alarm that aligns with the sunset.\"�Your perfect reminder, always 15 minutes before sundown",
+  "msg_hope_to_take_the": "hope to take the courage to pursue your dreams.",
+  "msg_no_need_to_set_alarms":
+      "No need to set alarms manually. Wakey calculates the sunset time for your location and alerts you on time.",
+  "msg_selected_location": "Selected Location",
+  "msg_sync_with_nature_s": "Sync with Nature's Rhythm",
+  "msg_use_current_location": "Use Current Location",
+  "msg_welcome_your_personalized": "Welcome! Your Personalized Alarm",
+  "msg_with_nature_s_rhythm": "with Nature's Rhythm",
+  "msg_network_err": "Network Error",
+  "msg_something_went_wrong": "Something Went Wrong!",
+};
